@@ -5,5 +5,14 @@ body{
     margin: 0;
     padding: 0;
 }
+.title{
+   position: relative;
+}
+.hot{
+  position: absolute;
+  top: 0;
+  right: 0; 
+  
+}
 
 
